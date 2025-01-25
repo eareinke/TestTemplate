@@ -1,6 +1,6 @@
-# Hackathon Template Github
+# Data Science 101 
 
-**2024-11-19**  **-** **2024-11-20** 
+**2024-1-24**  **-** **2025-1-25** 
 
 Github Pages based template for hackathons
 
